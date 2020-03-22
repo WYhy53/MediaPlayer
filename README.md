@@ -1,1 +1,1 @@
-# MediaPlayer
+# MusicPlayer
